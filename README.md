@@ -1,4 +1,4 @@
-## ⚖️ License
+## License
 This project is proprietary and all rights are reserved by the author.
 
 # 📈 Options Strategy Simulator
@@ -8,17 +8,17 @@ Users can view **historical stock data**, analyze **profit/loss curves**, and ex
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🧮 **Simulate Covered Calls & Protective Puts**
-- 💹 **Interactive Profit/Loss Charts** using Plotly
-- 🕒 **View Historical Stock Data** via Yahoo Finance
-- 📊 **Access Live Options Chain Data** with expiration filters
-- ⚡ **Streamlit-based UI** for quick parameter tuning and visualization
+- **Simulate Covered Calls & Protective Puts**
+- **Interactive Profit/Loss Charts** using Plotly
+- **View Historical Stock Data** via Yahoo Finance
+- **Access Live Options Chain Data** with expiration filters
+- **Streamlit-based UI** for quick parameter tuning and visualization
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. Enter a **ticker symbol** (e.g., `AAPL`, `TSLA`, `MSFT`)
 2. Choose a **date range** for historical data
@@ -29,5 +29,5 @@ Users can view **historical stock data**, analyze **profit/loss curves**, and ex
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
