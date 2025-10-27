@@ -33,9 +33,9 @@ Users can view **historical stock data**, analyze **profit/loss curves**, and ex
 
 options_web_app/
 │
-├── app.py # Main Streamlit application
-├── data_fetch.py # Functions for fetching stock & option data
-├── strategies.py # Logic for trade simulation and payoff computation
-├── visuals.py # Plotting and chart generation
-├── test_*.py # Unit tests for modules
-└── README.md # Project documentation
+  ├── app.py # Main Streamlit application
+  ├── data_fetch.py # Functions for fetching stock & option data
+  ├── strategies.py # Logic for trade simulation and payoff computation
+  ├── visuals.py # Plotting and chart generation
+  ├── test_*.py # Unit tests for modules
+  └── README.md # Project documentation
